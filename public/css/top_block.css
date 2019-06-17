@@ -1,0 +1,37 @@
+html, body {
+    background-color: #fff;
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+.Barre-du-haut{
+    height: 60px;
+    background-color: #000000;
+}
+.flex-center {
+align-items: center;
+display: flex;
+justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+   text-align: center;
+}
+
+
+.titre-site {
+text-align: center;
+padding-top: 10px;
+font-size: 30px;
+}

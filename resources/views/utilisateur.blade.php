@@ -9,16 +9,9 @@
     </head>
     <body>
         <div class="Barre-du-haut">
-        <div class="Logo">
-
-            </div>
-        <div class="titre-site">
+        <div class="title m-b-md">
                     FORUM DE MATT
-            </div>
-        <div class="connection-inscription">
-
-            </div>
-                
+                </div>
         </div>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
